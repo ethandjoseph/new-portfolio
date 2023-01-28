@@ -1,8 +1,8 @@
 {
-  "name": "edj.github.io",
+  "name": "edj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://edj.github.io",
+  "homepage": "http://Edj0seph.github.io/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
